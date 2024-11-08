@@ -1,6 +1,4 @@
-streamlit
-psycopg2-binary        # For PostgreSQL connection
+streamlit       # For PostgreSQL connection
 llama_index            # For managing embeddings
-transformers           # Hugging Face model for embedding generation
-sqlalchemy    
 langchain-cohere
+supabase 
